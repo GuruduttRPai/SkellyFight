@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/17d23d34-6280-4e13-974e-b4e9c9d414b7)
+
 # SkellyFight
 SkellyFight is a fun and engaging Python arcade game where you take control of a powerful wizard tasked with defending against an endless onslaught of spooky spawners in randomly generated terrain. Destroy these spawners with your spells to gain health points and points, allowing you to progress further into the game.
 
